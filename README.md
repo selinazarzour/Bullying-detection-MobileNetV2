@@ -58,6 +58,11 @@ This project presents a **video-based bullying detection system** using deep lea
 - **Model Interpretability**: Results visualized for clear recruiter presentation.
 - **Scalability**: Approach extensible to larger datasets and real-world applications.
 
+Screenshots:
+- **Classification Report**: <img width="819" height="370" alt="image" src="https://github.com/user-attachments/assets/34f04177-96b2-484e-bff6-0dd206e30bc6" />
+- **Confusion Matrix**: <img width="381" height="268" alt="image" src="https://github.com/user-attachments/assets/436872ef-8809-424f-b0d2-82ec13d29379" />
+- **Prediction Example**: <img width="488" height="184" alt="image" src="https://github.com/user-attachments/assets/0ace35cd-f87d-4441-8f05-459396f1c7fc" />
+
 ## Skills Demonstrated
 
 - **Data Engineering**: Automated video-to-frame pipelines and dataset management.
