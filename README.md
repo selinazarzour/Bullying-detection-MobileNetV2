@@ -13,7 +13,7 @@ This project presents a **video-based bullying detection system** using deep lea
 ## Dataset
 
 - **Source**: [Real-Life Violence Situations Dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
-- **Classes**: NonBullying (`NonViolence`) and Bullying (`Violence`)
+- **Classes**: NonBullying and Bullying
 - **Sample Size**: 20 videos per class for demonstration purposes (customizable for larger datasets)
 
 ## Frameworks & Technologies
