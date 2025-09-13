@@ -82,7 +82,7 @@ This project presents a **video-based bullying detection system** using deep lea
 
 ## Contact
 
-For questions, collaborations, or demo requests, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/your-profile).
+For questions, collaborations, or demo requests, feel free to reach out via GitHub.
 
 ---
 
